@@ -1,0 +1,6 @@
+#+TITLE Welcome the my blog
+
+  This blog at the moment is just a test for using [[https://github.com/kelvinh/org-page][org-page]] to post from emacs.
+
+  At the moment there's nothing really useful here. Hope someday I can make it
+  well used.
