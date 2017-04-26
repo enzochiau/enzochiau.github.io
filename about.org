@@ -1,4 +1,4 @@
-#+TITLE:       About Me
+#+TITLE:       About
 #+AUTHOR:      Enze Chi
 #+EMAIL:       enze.chi@gmail.com
 #+DATE:        2017-04-26 Wed

@@ -1,6 +1,15 @@
-#+TITLE: Welcome to my blog
+#+TITLE:       Welcome
+#+AUTHOR:      Enze Chi
+#+EMAIL:       enze.chi@gmail.com
+#+DATE:        2017-04-26 Wed
+#+URI:         /
+#+KEYWORDS:    <TODO: insert your keywords here>
+#+TAGS:        <TODO: insert your tags here>
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: <TODO: insert your description here>
 
-  This blog at the moment is just a test for using [[https://github.com/kelvinh/org-page][org-page]] to post from emacs.
+This blog at the moment is just a test for using [[https://github.com/kelvinh/org-page][org-page]] to post from emacs.
 
-  At the moment there's nothing really useful here. Hope someday I can make it
-  well used.
+At the moment there's nothing really useful here. Hope someday I can make it
+well used.
