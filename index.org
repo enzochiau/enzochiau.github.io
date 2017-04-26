@@ -1,4 +1,4 @@
-#+TITLE: Welcome the my blog
+#+TITLE: Welcome to my blog
 
   This blog at the moment is just a test for using [[https://github.com/kelvinh/org-page][org-page]] to post from emacs.
 
