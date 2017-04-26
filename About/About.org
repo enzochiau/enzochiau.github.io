@@ -1,0 +1,13 @@
+#+TITLE:       About Me
+#+AUTHOR:      Enze Chi
+#+EMAIL:       enze.chi@gmail.com
+#+DATE:        2017-04-26 Wed
+#+URI:         /blog/%y/%m/%d/about-me
+#+KEYWORDS:    me
+#+TAGS:        intro
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: <TODO: insert your description here>
+
+I am nobody and coding SystemVerilog for living. Learning C++ and Go. Favor
+Emacs over any IDE.
