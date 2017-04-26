@@ -4,14 +4,14 @@
     <title>Enze&#39;s Personal Blog</title>
     <link>http://enzochiau.github.io</link>
     <description>Creating memory</description>
-    <pubDate>Wed, 26 Apr 2017 20:48:55 AEST</pubDate>
-    <lastBuildDate>Wed, 26 Apr 2017 20:48:55 AEST</lastBuildDate>
+    <pubDate>Wed, 26 Apr 2017 20:49:34 AEST</pubDate>
+    <lastBuildDate>Wed, 26 Apr 2017 20:49:34 AEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>My first blog post</title>
       <link>http://enzochiau.github.io/blog/2017/04/26/my-first-blog-post</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Just try out the blog post and insert property function.]]></description>
       <pubDate>2017-04-26</pubDate>
       <guid>http://enzochiau.github.io/blog/2017/04/26/my-first-blog-post</guid>
     </item>
