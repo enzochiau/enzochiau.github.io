@@ -2,11 +2,12 @@
 #+AUTHOR:      Enze Chi
 #+EMAIL:       enze.chi@gmail.com
 #+DATE:        2017-04-26 Wed
-#+KEYWORDS:    me
+#+KEYWORDS:    about, Enze Chi
+#+URI:         /about/
 #+TAGS:        intro
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: <TODO: insert your description here>
+#+DESCRIPTION: About Enze Chi
 
 I am nobody and coding SystemVerilog for living. Learning C++ and Go. Favor
 Emacs over any IDE.
