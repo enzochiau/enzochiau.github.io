@@ -1,0 +1,4 @@
+#+TITLE: My first blog post
+
+Try to start to write something in emacs and published to "blog" category. Need
+to check about the RSS and where's the post is ended to.
