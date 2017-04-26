@@ -2,7 +2,6 @@
 #+AUTHOR:      Enze Chi
 #+EMAIL:       enze.chi@gmail.com
 #+DATE:        2017-04-26 Wed
-#+URI:         /blog/%y/%m/%d/about-me
 #+KEYWORDS:    me
 #+TAGS:        intro
 #+LANGUAGE:    en
